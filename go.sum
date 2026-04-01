@@ -1,7 +1,7 @@
 github.com/golang-jwt/jwt/v5 v5.3.1 h1:kYf81DTWFe7t+1VvL7eS+jKFVWaUnK9cB1qbwn63YCY=
 github.com/golang-jwt/jwt/v5 v5.3.1/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArsqaEUEa5bE=
-github.com/x64c/gw v0.1.4 h1:YkIouIP5hXB6AM64/dCF4hHmZRO+S62fnlhSJOAqSPs=
-github.com/x64c/gw v0.1.4/go.mod h1:id2Nbm6H/MQE7Ek2kmVVk2qa/iS2KCspbZnR5Z51c6E=
+github.com/x64c/gw v0.1.5 h1:IaIPKRfG/oaoTV2WYx72Sq0dApdzHMQMWpNMf3pfPQw=
+github.com/x64c/gw v0.1.5/go.mod h1:id2Nbm6H/MQE7Ek2kmVVk2qa/iS2KCspbZnR5Z51c6E=
 golang.org/x/crypto v0.49.0 h1:+Ng2ULVvLHnJ/ZFEq4KdcDd/cfjrrjjNSXNzxg0Y4U4=
 golang.org/x/crypto v0.49.0/go.mod h1:ErX4dUh2UM+CFYiXZRTcMpEcN8b/1gxEuv3nODoYtCA=
 golang.org/x/sys v0.42.0 h1:omrd2nAlyT5ESRdCLYdm3+fMfNFE/+Rf4bDIQImRJeo=
